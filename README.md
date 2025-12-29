@@ -1,4 +1,4 @@
-### BatalhaNaval
+### BatalhaNaval1
 
 Uma releitura do jogo <b>BatalhaNaval1</b>, onde apenas um único player tem o objetivo de achar todas as 15 embarcações em 25 jogadas, porém tem que ter sorte de não encontrar uma das 8 bombas que estão espalhadas pelo tabuleiro.
 
